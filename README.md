@@ -10,6 +10,7 @@ Compilação de APIs públicas brasileiras (e algumas internacionais úteis) par
 |--------------|------------------------------------------|--------------------------------------------------|
 | BrasilAPI    | https://brasilapi.com.br/docs            | Diversos serviços como CEP, CNPJ, DDD, bancos.   |
 | ReceitaWS    | https://www.receitaws.com.br/            | Consulta de CNPJ (uso gratuito com limites).     |
+| CNPJ Aberto  | https://cnpjaberto.com.br/               | Alternativa Consulta de CNPJ, Sócios e empresas da Bolsa | 
 
 ---
 
