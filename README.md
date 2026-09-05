@@ -7,6 +7,8 @@ Compilação de APIs públicas brasileiras (e algumas internacionais úteis) par
 ## 🔍 CEP, CNPJ e Dados Comerciais
 
 | Nome         | URL                                      | Descrição                                        |
+| PontoFato    | https://pontofato.com/api/               | CEP com coordenada do IBGE (CNEFE) e as empresas no mesmo lugar. |
+| Radar CNPJ   | https://radar-cnpj.com/api/              | Consulta e busca de CNPJ, avaliação de ideia por região e monitoramento. |
 |--------------|------------------------------------------|--------------------------------------------------|
 | BrasilAPI    | https://brasilapi.com.br/docs            | Diversos serviços como CEP, CNPJ, DDD, bancos.   |
 | ReceitaWS    | https://www.receitaws.com.br/            | Consulta de CNPJ (uso gratuito com limites).     |
@@ -25,6 +27,7 @@ Compilação de APIs públicas brasileiras (e algumas internacionais úteis) par
 ## 🏛 Governo e Política
 
 | Nome | URL | Descrição |
+| EditalMD | https://editalmd.com/api/ | Editais do PNCP em markdown, com prazos de proposta e impugnação e alertas. |
 |------|-----|-----------|
 | Senado Federal | https://dadosabertos.senado.leg.br/ | Projetos de lei, senadores, votações. |
 | Câmara dos Deputados | https://dadosabertos.camara.leg.br/swagger/api.html | Proposições, deputados, eventos, etc. |
