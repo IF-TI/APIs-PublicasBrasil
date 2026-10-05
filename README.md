@@ -36,6 +36,7 @@ Compilação de APIs públicas brasileiras (e algumas internacionais úteis) par
 | Nome | URL | Descrição |
 |------|-----|-----------|
 | Banco Central (BCB) | https://dadosabertos.bcb.gov.br/ | Cotações, SELIC, boletins econômicos. |
+| ContaCLT | https://contaclt.com/dados/api/ | Cálculos trabalhistas de 2026 (salário líquido, INSS, IRRF, seguro-desemprego, DAS MEI), sem chave. |
 
 ---
 
