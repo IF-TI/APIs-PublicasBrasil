@@ -78,5 +78,13 @@ Compilação de APIs públicas brasileiras (e algumas internacionais úteis) par
 
 ---
 
+## 🌍 Ideias de viagens e experiências
+
+| Nome | URL | Descrição |
+|------|-----|-----------|
+| Bucketlist.nl (internacional) | https://bucketlist.nl/brand/droom-van-de-dag.openapi.json | Ideia diária de viagem ou experiência; resposta em neerlandês por padrão |
+
+---
+
 > Última atualização: 28/07/2025  
 > Contribuições e sugestões são bem-vindas!
